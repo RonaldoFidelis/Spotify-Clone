@@ -2,6 +2,7 @@
 
 <br>
 
+[cap-clone-spotify.webm](https://github.com/RonaldoFidelis/Spotify-Clone/assets/92171641/2992bced-60b3-40a6-bb64-76f9f5fb9a7b)
 
 <br>
 
@@ -9,13 +10,13 @@
 
 ## 🚀 Tecnologias usadas:
 
-* **[ JAVASCRIPT ](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
-* **[ TAILWIND CSS ](https://tailwindcss.com/)**
-* **[ HTML ](https://developer.mozilla.org/pt-BR/docs/Web/HTML)**
-* **[ CSS ](https://developer.mozilla.org/pt-BR/docs/Web/CSS)**
-* **[ FONT AWESOME ](https://fontawesome.com/)**
+* **[ Javascript ](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
+* **[ Tailwindcss ](https://tailwindcss.com/)**
+* **[ NodeJs ](https://nodejs.org/en)**
+* **[ Html ](https://developer.mozilla.org/pt-BR/docs/Web/HTML)**
+* **[ Css ](https://developer.mozilla.org/pt-BR/docs/Web/CSS)**
 
 ## 📝 Maiores aprendizados
 
-* Deploy de aplicação Web 
-* Responsividade com Taildwindcss
+* Deploy com o vercel
+* Responsividade e configuração de ambiente com Taildwindcss
