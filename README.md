@@ -5,7 +5,7 @@
 
 <br>
 
-> Teste você mesmo: <a href="#" target="_blank"> Spotify-clone </a>
+> Teste você mesmo: <a href="https://spotify-clone-ct9u3jk84-ronaldofidelis.vercel.app/" target="_blank"> Spotify-clone </a>
 
 ## 🚀 Tecnologias usadas:
 
