@@ -1,15 +1,69 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Tailwind -->
     <link rel="stylesheet" href="../dist/output.css">
+    <!-- Fonte awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" />
     <!-- Icon -->
     <link rel="shortcut icon" href="../assets/img/favicon.png" type="image/x-icon">
     <title>Spotify-clone</title>
 </head>
+
 <body>
-    
+    <!-- NAVBAR -->
+    <header>
+        <div class="flex fixed bg-black w-full px-3 py-4 md:px-20">
+            <div class="container flex items-center mx-auto">
+                <!-- logo -->
+                <div>
+                    <a href="#">
+                        <img class="w-20 md:w-125px" src="../assets/img/spotify-logo.png" alt="spotify-logo">
+                    </a>
+                </div>
+                <!-- menu hamburgue mobile -->
+                <div class="flex justify-end flex-1 text-white text-3xl md:hidden">
+                    <i class="fa-solid fa-bars"></i>
+                </div>
+                <!-- navbar  -->
+                <div class="items-end flex-1 text-white font-bold hidden md:flex">
+                    <nav class="flex-1">
+                        <ul class="flex justify-end flex-1">
+                            <li class="px-5">
+                                <a class="text-base hover:text-hoverbtn" href="#">Premium</a>
+                            </li>
+                            <li class="px-5">
+                                <a class="text-base hover:text-hoverbtn" href="#">Suporte</a>
+                            </li>
+                            <li class="px-5">
+                                <a class="text-base hover:text-hoverbtn" href="#">Baixar</a>
+                            </li>
+                            <li class="border-r-2 border-white"></li>
+                            <li class="px-5">
+                                <a class="text-base hover:text-hoverbtn" href="#">Inscrever-se</a>
+                            </li>
+                            <li class="px-5">
+                                <a class="text-base hover:text-hoverbtn" href="#">Entrar</a>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- MAIN -->
+    <main>
+        <div>
+            <h1></h1>
+        </div>
+    </main>
+    <!-- FOOTER -->
+    <footer>
+
+    </footer>
 </body>
+
 </html>
